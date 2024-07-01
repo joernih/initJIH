@@ -1,10 +1,7 @@
 # Init
-alias upds='source /home/joernih/Init/init.sh' 
+alias upds='source /home/joernihJIH/Init/init.sh' 
 alias nvd="nvim -u $HOME/InitJIH/config/nvim/init.vim"
 alias nvc="nvim $HOME/InitJIH/README.md -u $HOME/InitJIH/config/nvim/init.vim"
-alias upds='source /home/joernih/init/init.sh' 
-alias nvd="nvim -u $HOME/InitJIH/config/nvim/init.vim"
-alias nvc="nvim $HOME/InitJIH/README.md -u $HOME/initJIH/config/nvim/init.vim"
 alias t='tmux'
 alias z='zellij'
 alias v='nvim'

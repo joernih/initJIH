@@ -15,17 +15,17 @@ map cx :tabnew %<cr>
 imap jj <esc>
 " Settings
 map sea  :e $HOME/init/alias.sh
-map ser1 :e ~/Init/config/r/Rprofile<CR>                         
-map ser2 :e ~/Init/config/r/Renviron<CR>
-map sea  :e ~/Init/alias_jih.sh<CR>
-map sef  :e ~/Init/functions_jih.sh<CR>
-map ses  :e ~/Init/symboliclinks<CR>
-map sev  :e ~/Init/config/nvim/init.vim<CR>
-map sec  :e ~/Init/README.md<CR>
-map seb  :e ~/Init/config/bash/bashrc<CR>
-map sez  :e ~/Init/config/zsh/zshrc<CR>
-map seq  :e ~/Init/config/qtile/config.py<CR> 
-map sek  :e ~/Init/kitty/kitty.conf<CR>
+map ser1 :e ~/InitJIH/config/r/Rprofile<CR>                         
+map ser2 :e ~/InitJIH/config/r/Renviron<CR>
+map sea  :e ~/InitJIH/alias_jih.sh<CR>
+map sef  :e ~/InitJIH/functions_jih.sh<CR>
+map ses  :e ~/InitJIH/symboliclinks<CR>
+map sev  :e ~/InitJIH/config/nvim/init.vim<CR>
+map sec  :e ~/InitJIH/README.md<CR>
+map seb  :e ~/InitJIH/config/bash/bashrc<CR>
+map sez  :e ~/InitJIH/config/zsh/zshrc<CR>
+map seq  :e ~/InitJIH/config/qtile/config.py<CR> 
+map sek  :e ~/InitJIH/kitty/kitty.conf<CR>
 " Buffer
 map ba :b#<CR>
 map bn :buffer 
@@ -143,7 +143,7 @@ map skj :e /home/joernih/.ssh/github/tokensjih.txt<cr>
 map skl :e /home/joernih/.ssh/github/tokenslto.txt<cr>
 map rlib :e ~/R/x86_64-pc-linux-gnu-library/4.4/abc.qmd<cr>
 
-map kmp :e /home/joernih/Init/config/nvim/keymapping.vim<cr>
+map kmp :e /home/joernih/InitJIH/config/nvim/keymapping.vim<cr>
 
 
 

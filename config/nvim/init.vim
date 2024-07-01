@@ -59,7 +59,7 @@ map rs :RSTOP<cr>
 let R_debug = 0
 let R_assign = 0
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-source $HOME/Init/config/nvim/keymapping.vim
+source $HOME/InitJIH/config/nvim/keymapping.vim
 " Mappings
 " source $HOME/initsetup/config/nvim/script/keymapping.vim
 "map cs :source ~/Init/config/nvim/init.vim<cr>
