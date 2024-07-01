@@ -1,0 +1,17 @@
+# Environmental variables
+# Sourced scripts
+source $HOME/.environJIH.sh
+source $HOME/InitJIH/init.sh
+source $HOME/InitJIH/functions.sh
+source $HOME/InitJIH/alias.sh
+
+bind 'set show-all-if-ambiguous on'
+bind 'TAB:menu-complete'
+
+
+xset b off
+# setterm -blength 0
+
+if [ -f /etc/bash_completion ]; then                                                                              
+    . /etc/bash_completion                                                                                        
+fi                                                                                                                

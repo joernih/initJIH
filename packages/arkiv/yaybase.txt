@@ -1,0 +1,3 @@
+rstudio-desktop-bin
+brave-browser
+nomachine

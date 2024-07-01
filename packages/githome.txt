@@ -1,0 +1,6 @@
+#!/bin/bash
+git clone https://github.com/joernih/homepageJIH $HOME/
+git clone https://github.com/joernih/OEKA201ProgrammingWebPage.git $HOME/teaching
+git clone https://github.com/joernih/SFB30820Finansteori $HOME/teaching
+git clone https://github.com/joernih/NKI $HOME/intwebp
+
